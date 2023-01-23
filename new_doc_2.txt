@@ -3,3 +3,5 @@ Novo documento
 Fiz uma nova alteração
 
 Fiz outra alteração
+
+Linha adicionada na nova branch
